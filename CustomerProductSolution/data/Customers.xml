@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+    <Customer>
+        <Id>1</Id>
+        <Email>test@test.com</Email>
+        <FirstName>Test</FirstName>
+        <LastName>Testerson</LastName>
+        <Phone>555-5555</Phone>
+    </Customer>
+    <Customer>
+        <Id>2</Id>
+        <Email>blip@blop.com</Email>
+        <FirstName>Amos</FirstName>
+        <LastName>Smidley</LastName>
+        <Phone>123-4567</Phone>
+    </Customer>
+</Customers>

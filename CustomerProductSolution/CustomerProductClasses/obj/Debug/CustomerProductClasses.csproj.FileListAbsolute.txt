@@ -1,0 +1,6 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\bin\Debug\CustomerProductClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\bin\Debug\CustomerProductClasses.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\obj\Debug\CustomerProductClasses.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\obj\Debug\CustomerProductClasses.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\obj\Debug\CustomerProductClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\CustomerProductSolution\CustomerProductClasses\obj\Debug\CustomerProductClasses.pdb

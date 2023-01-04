@@ -1,0 +1,6 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardClasses\obj\Debug\CardClasses.pdb

@@ -1,0 +1,10 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\bin\Debug\CardTests.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\bin\Debug\CardTests.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\bin\Debug\CardTests.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\bin\Debug\CardClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\bin\Debug\CardClasses.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\obj\Debug\CardTests.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\obj\Debug\CardTests.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\obj\Debug\CardTests.csproj.CopyComplete
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\obj\Debug\CardTests.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week04\classes-lab-ccollis93\ClassesLabWindows\BlackJack\CardTests\obj\Debug\CardTests.pdb
